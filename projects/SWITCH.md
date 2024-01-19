@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/switch_design.pdf
+image: img/Screenshot 2024-01-18 at 9.44.03 PM.png
 title: "SWITCH(ing) it up"
 date: 2024
 published: true
