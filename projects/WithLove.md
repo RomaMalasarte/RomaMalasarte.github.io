@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/Screenshot 2024-01-18 at 9.44.03 PM.png
+image: img/68A736D2-E4DC-4753-96DB-A3F982A87AD6.JPG
 title: "WithLove Business Journey"
 date: 2020
 published: true
@@ -11,10 +11,6 @@ labels:
   - Entrepreneurship
 summary: "Small Business that specialized in polaroid film services. Mission: Provide customers conveniency and personalized source for quality instant film."
 ---
-
-<div class="text-center p-4">
-  <img width="200px" src="../img/InstaPost Flyer.gif" class="img-thumbnail" >
-</div>
 
 ## _Creation_
 Back in highschool, I was selling my old clothes that I could not fit anymore on a small instagram shop. For my 16th Birthday, I got a polaroid film printer. I found myself utilizing it a lot and I had always added a small polaroid photo to my friend’s birthday gifts to add a personalized component. I then thought to myself, why not make this a business because some of my friends were asking if I was selling personalized film. 
