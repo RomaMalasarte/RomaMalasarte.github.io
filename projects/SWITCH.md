@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/switch_design.pdf
 title: "SWITCH(ing) it up"
 date: 2024
 published: true
