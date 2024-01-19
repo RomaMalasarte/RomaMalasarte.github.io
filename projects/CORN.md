@@ -15,7 +15,7 @@ summary: "Data Driven Agriculture Research Extension Experience For Undergraduat
 ---
 
 <div class="text-center p-4">
-  <img width="400px" src="../img/1.png" class="img-thumbnail" >
+  <img width="400px" src="../img/Screenshot 2024-01-18 at 10.28.00 PM.png" class="img-thumbnail" >
 </div>
 
 For about two and a half weeks, we studied four different corn varieties such as B73, CML333, M162W, and CML222. From here we visited our assigned plants and watered them every day under the conditions of control, shade, and drought. In the end, Qualitatively, we saw how each genotype performed under those following conditions. Once we saw that our shoot (leaf) was not growing anymore, we started separating our root and shoots to measure. We rinsed our roots, freezed them, thoroughly cleansed each root to perform scanning, and created data for our research. We used ImageJ to scan our leafs and we utilied rhizovision software to scan our roots. This process took us about a week to complete and gather all the data we needed. 
