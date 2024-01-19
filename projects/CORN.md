@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/Screenshot 2024-01-18 at 9.44.03 PM.png
+image: img/corn.jpeg
 title: "its Corn"
 date: 2023
 published: true
