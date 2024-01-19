@@ -6,8 +6,7 @@ title: "Reaching JavaScript Horizons"
 date: 2024-01-17
 published: true
 labels:
-  - Software Engineering
-  - Learning
+  - JavaScript
 ---
 
 ## _Thoughts on JavaScript_
