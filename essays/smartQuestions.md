@@ -13,10 +13,10 @@ labels:
 
 If I asked you the question, “does the top bread bun go below the cheese and lettuce?” Would you take me seriously? 
 
-<img width="200px" class="rounded float-start pe-10" src="../img/little side eye.png">
+<img width="200px" class="rounded float-start pe-4" src="../img/little side eye.png">
 
 No. 
-
+<br> <!-- Add a line break -->
 
 ## _Communication is Key_
 Asking smart questions is an opportunity. An opportunity to gain specific information and detailed answers to expand your knowledge and make better decisions. If we can make smart goals, we can make smart questions. It is important to analyze the questions we are asking and ensure that it is specific, measurable, actionable, relevant, and will it meet long term goals. Putting in effort to what you are trying to convey with research of your own and emphasizing the area of confusion will lead you to a path of effective communication, collaboration, and work. However, asking questions with little to no context, does not lead you anywhere. It is important to try and figure things out yourself, ask a friend who can help you, or utilize your resources. No matter what, when you are just stuck and unsure of what to do, or what x means, form a smart question.
