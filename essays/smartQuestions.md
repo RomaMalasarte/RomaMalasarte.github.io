@@ -13,7 +13,7 @@ labels:
 
 If I asked you the question, “does the top bread bun go below the cheese and lettuce?” Would you take me seriously? 
 
-<img width="200px" class="rounded float-start pe-4" src="../img/little side eye.png">
+<img width="200px" class="rounded float-start pe-10" src="../img/little side eye.png">
 
 No. 
 
