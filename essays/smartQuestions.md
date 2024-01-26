@@ -6,9 +6,12 @@ title: "Life is better with smart questions"
 date: 2024-01-25
 published: true
 labels:
-  - Smart Questions
+  - Questions
+  - Answers
   - StackOverflow
 ---
+
+<img width="300px" class="rounded float-start pe-4" src="../img/smart-questions/rtfm.png">
 
 ## _The art of smart questions_
 If I asked you the question, “does the top bread bun go below the cheese and lettuce?” Would you take me seriously?
