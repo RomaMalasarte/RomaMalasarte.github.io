@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "How to save time, energy, and money!"
+title: "Life is better with smart questions"
 # All dates must be YYYY-MM-DD format!
 date: 2024-01-25
 published: true
