@@ -11,9 +11,7 @@ labels:
   - StackOverflow
 ---
 
-If I asked you the question, “does the top bread bun go below the cheese and lettuce?” Would you take me seriously? 
-
-<img width="200px" class="rounded float-start pe-4" src="../img/little side eye.png">                                                                                                                                                                                                               
+If I asked you the question, “does the top bread bun go below the cheese and lettuce?” Would you take me seriously? <img width="200px" class="rounded float-start pe-4" src="../img/little side eye.png">                                                                                                                                                                                                               
 
 No.                                                                                                                                             
                                                                                                                                                             
@@ -74,7 +72,7 @@ RecyclerView recyclerView;
 ```
 As you may have analyzed, the asker provides very…very…very vague context of their issue. It is okay though, this person has two responses which hopefully were helpful. I had deemed this question as not so smart because it does not clearly describe the issue and responders seem to provide less information/ less interactive. There are no comments that give us an idea of what the code is doing or knowledge and effort that the asker has done their research on their end. This question is rough. 
 
-## _Asking questions save time, energy, and money!_
+## Save time, energy, and money!_
 [How to ask questions the smart way](http://www.catb.org/esr/faqs/smart-questions.html) is definitely an important read, not just for software developers but may pertain to every individual on earth. Good questions are tools and stimulate motivation to learn. Asking smart questions is an advantage to gain another perspective and is essential to the growth process. 
 
 
