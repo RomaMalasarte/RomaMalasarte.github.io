@@ -17,6 +17,8 @@ No.
 
 <img width="200px" class="rounded float-start pe-4" src="../img/little side eye.png">
 
+
+
 Asking smart questions is an opportunity. An opportunity to gain specific information and detailed answers to expand your knowledge and make better decisions. If we can make smart goals, we can make smart questions. It is important to analyze the questions we are asking and ensure that it is specific, measurable, actionable, relevant, and will it meet long term goals.
 
 ## _Communication is Key_
@@ -24,7 +26,7 @@ Asking smart questions and putting in effort to what you are trying to convey wi
 
 ## _Smart question example:_
 
-Title: [Map vs Object in JavaScript](https://stackoverflow.com/questions/18541940/map-vs-object-in-javascript)
+[Map vs Object in JavaScript](https://stackoverflow.com/questions/18541940/map-vs-object-in-javascript)
 
 ```
 I just discovered this feature:
@@ -50,7 +52,7 @@ I had found this as an example of a SMART question because this person showcases
 
 ## _Not so smart question example_
 
-Title: [Application not working and I dont know the reason](https://stackoverflow.com/questions/58114330/application-not-working-and-i-dont-know-the-reason)
+[Application not working and I dont know the reason](https://stackoverflow.com/questions/58114330/application-not-working-and-i-dont-know-the-reason)
 
 ```
 I have below code and once I run application it is crashed, I dont know the reason sorry Iam new on android so any one can help me
