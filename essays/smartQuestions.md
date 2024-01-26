@@ -10,7 +10,7 @@ labels:
   - Answers
   - stackoverflow
 ---
-<img width="200px" class="rounded float-start pe-4" src="../img/little side eye.png"> 
+<img width="180px" class="rounded float-start pe-4" src="../img/little side eye.png"> 
 
 If I asked you the question, “does the top bread bun go below the cheese and lettuce?”
 
