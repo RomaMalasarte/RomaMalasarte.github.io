@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/WithLove4.png
+image: img/Withlove4.png
 title: "WithLove Business Journey"
 date: 2020
 published: true
