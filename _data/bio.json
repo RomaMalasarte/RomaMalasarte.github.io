@@ -27,7 +27,7 @@
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "MacOS" ]
     }
   ],
   "education": [
@@ -50,7 +50,7 @@
       "endDate": "Present",
       "summary": "Manage and Support the technology infrastructure",
       "highlights": [
-        "Maintain the data center of UH, Network patching and documentation, and perform data security measures."
+        "Maintain the data center of UH, network patching and documentation, and perform data security measures."
       ]
     },
     {
@@ -59,9 +59,9 @@
       "Social Media": "https://www.instagram.com/rhamanoa/",
       "startDate": "2022-12-01",
       "endDate": "Present",
-      "summary": "Oversee and plan program events and manage administrative tasks",
+      "summary": "Plan program events and manage administrative tasks",
       "highlights": [
-        "Event planning (e.g. silent disco, s'mores night, Plan your semester, etc.)",
+        "Plan logistics for every program scheduled for the semester. (e.g. silent disco, s'mores night, Plan your semester, etc.)",
         "Handling email communcations and managing the budget.",
         "Plan semester retreats for our general assembly."
       ]
@@ -73,33 +73,37 @@
       "organization": "Ka Papa Loʻi O Kānewai",
       "website": "https://manoa.hawaii.edu/hshk/ka-papa-loi-o-kanewai/",
       "position": "Volunteer",
-      "Date": "2023-11-04",
+      "startDate": "2023-11-04",
+      "endDate": "",
       "summary": [
-        "Clean up around the Kalo patches, remove any morning glory and leaves",
-        "Learn about where the water flows founder of the freshwater in the area. "
+        "Clean up around the Kalo patches, remove any morning glory and leaves. ",
+        "Learn about the founder and origin of the Loʻi and how fresh water came available. "
       ]
     },
     {
-      "organization": "National Residence Hall Honorary in collaboration with Sierra Club",
+      "organization": "National Residence Hall Honorary",
+      "website": "",
       "position": "Member",
-      "Date": "April 16, 2023",
+      "startDate": "April 16, 2023",
+      "endDate": "",
       "summary": [
-      "Extract Invasive species, Koa Haole, from the Wawamalu Beach Park in order to restore the beach to its natural/ native state. ",
+      "In collaboration with Sierra Club, I extracted Invasive species, Koa Haole, from the Wawamalu Beach Park in order to restore the beach to its natural/ native state. ",
       ]
     }, 
     {
       "organization": "Supporting Women in Tech and Computing Hawaii",
       "website": "https://switch-uhm.github.io/",
       "position": "Vice President of Marketing",
-      "Date": "May 29, 2023",
-      "summary": [ "In collaborative efforts with the Girl Scouts of Hawaii and taught them fun STEM activities such as constructing LED photo frames and brush bots.
+      "startDate": "May 29, 2023",
+      "endDate": "",
+      "summary": [ "In collaborative efforts with the Girl Scouts of Hawaii, I taught them fun STEM activities such as constructing LED photo frames and brush bots.
 ",
       ]
     }
   ],
   "awards": [
     {
-      "title": "Academic Merit Scholarship Recipient",
+      "title": "Academic Merit Scholarship",
       "date": "2021-Present",
       "awarder": "UH Manoa",
       "summary": "Scholarships awarded to incoming freshmen and continuing students who exhibit high school academic performance and cumulative GPA."
