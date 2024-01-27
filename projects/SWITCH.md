@@ -13,7 +13,7 @@ summary: "I participate in one of the ACM’s Special Interest Group clubs calle
 ---
 
 <div class="text-center p-4">
-  <img width="200px" src="../img/InstaPost Flyer.gif" class="img-thumbnail" >
+  <img width="600px" src="../img/InstaPost Flyer.gif" class="img-thumbnail" >
 </div>
 
 I take on the role as the Vice President of Marketing and I coordinate events to raise awareness about our mission and attract students from different backgrounds to foster interest in tech related initiatives. 
