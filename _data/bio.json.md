@@ -23,7 +23,7 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", R" ]
+      "keywords": [ "C", "C++", "Java", "Javascript", "R" ]
     },
     {
       "name": "Toolsets/OS",
@@ -62,7 +62,7 @@
       "summary": "Oversee and plan program events and manage administrative tasks",
       "highlights": [
         "Event planning (e.g. silent disco, s'mores night, Plan your semester, etc.)",
-        "Handling email communcations and managing the budget."
+        "Handling email communcations and managing the budget.",
         "Plan semester retreats for our general assembly."
       ]
     }
@@ -83,7 +83,8 @@
       "organization": "National Residence Hall Honorary in collaboration with Sierra Club",
       "position": "Member",
       "Date": "April 16, 2023",
-      "summary": "Extract Invasive species, Koa Haole, from the Wawamalu Beach Park in order to restore the beach to its natural/ native state. ",
+      "summary": [
+      "Extract Invasive species, Koa Haole, from the Wawamalu Beach Park in order to restore the beach to its natural/ native state. ",
       ]
     }, 
     {
@@ -91,8 +92,9 @@
       "website": "https://switch-uhm.github.io/",
       "position": "Vice President of Marketing",
       "Date": "May 29, 2023",
-      "summary": "In collaborative efforts with the Girl Scouts of Hawaii and taught them fun STEM activities such as constructing LED photo frames and brush bots.
+      "summary": [ "In collaborative efforts with the Girl Scouts of Hawaii and taught them fun STEM activities such as constructing LED photo frames and brush bots.
 ",
+      ]
     }
   ],
   "awards": [
