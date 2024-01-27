@@ -9,13 +9,14 @@ labels:
   - Marketing
   - Research
   - Community Engagement
-summary: "I participate in one of the ACM’s Special Interest Group clubs called SWITCH. We stand for Supporting Women in Tech and Computing Hawai’i and our mission is to promote inclusivity and awareness in the tech industry."
+summary: "An ACM Special Interest Group called SWITCH. We stand for Supporting Women in Tech and Computing Hawai’i and our mission is to promote inclusivity and awareness in the tech industry."
 ---
 
 <div class="text-center p-4">
   <img width="450px" src="../img/InstaPost Flyer.gif" class="img-thumbnail" >
 </div>
 
+## _Role and Overview_
 I take on the role as the Vice President of Marketing and I coordinate events to raise awareness about our mission and attract students from different backgrounds to foster interest in tech related initiatives. 
 
 We host social programs where we allow folks to meet people with similar interests in the same setting. We hosted Boba & origami, movie night, painting & pastries programs so that students can feel ease throughout the semester and unwind (which many of us forget doing). We also host LinkedIn professional workshops as well as get industry professionals to talk to students about their experience within their career. 
