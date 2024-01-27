@@ -15,7 +15,7 @@ summary: "Data Driven Agriculture Research Extension Experience For Undergraduat
 ---
 
 <div class="text-center p-4">
-  <img width="600px" src="../img/1.png" class="img-thumbnail" >
+  <img width="450px" src="../img/1.png" class="img-thumbnail" >
 </div>
 
 ## _Corn Corn Corn_
