@@ -16,14 +16,39 @@ It was not until I embarked on the challenging journey of taking the ICS212 Prog
 ## _Analyzing Not Cool Code and Cool Code_
 Every person that codes has their own style of writing code, but it is crucial that we (as coders) can differentiate good and bad coding standards. Here is an example of bad coding standard, a.k.a not cool code. This was referenced from one of our in class coding assignments:
 
+```
+// Not cool code
+const t = [1,  2,  3,  4];
 
-<img width="400px" class="rounded float-start pe-6" src="../img/not cool code.png">
+function aa(n) {
+var t =  0;
+for (var i =  0; i < n.length; i++) {
+  t += n[i];
+}
+return t;
+}
+
+console.log(aa(t));
+```
+
 
 
 Here lies a symphony of sloppinesss. Right off the bat, we can see that the indentation is off and it acquires poor naming conventions. Although this code is on the simpler side, some folks who read this code will have to think super hard about what the function's purpose is from the start. Is the purpose of this code aa? Like, what does that mean? This code also uses var, which is function-scoped, we should not be using var. This code also returns a result with no context or explanation, not even comments are present. One may say... not cool dude.
 
+```
+// Cool Code
+const testNums = [1, 2, 3, 4];
 
-<img width="400px" class="rounded float-start pe-6" src="../img/cool code.png">
+function sumForLoop(nums) {
+  let total = 0;
+  for (const num of nums) {
+    total += num;
+  }
+  return total;
+}
+
+console.log(sumForLoop(testNums));
+```
 
 
 A beacon of enlightenment. You can see the difference between the bad coding standards we analyzed and good coding standards such as this one. With the help of the descriptive naming conventions, we can figure out that this code has a function sumForLoop that calculates the sum of an array numbers using a for loop. The indentation of this code allows for readability and has proper usage of keywords such as let and const. Following good coding standards can make code seem like a sentence. With consistent and clear documentation, this code can be deemed as invincible!
