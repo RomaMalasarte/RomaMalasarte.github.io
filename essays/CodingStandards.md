@@ -13,8 +13,8 @@ labels:
 ## _Journey to clean and clear coding_
 It was not until I embarked on the challenging journey of taking the ICS212 Programming Structures course, where I found myself most frustrated with the intricacies of proper coding standards. After writing pieces of code, I would run pylint, a python tool renowned for checking code quality and errors. As I hit enter, I would get a large list of errors that ranged from indentation, extra spaces, incorrect declarations, among others. It was a bit irritating to see but at the same time served a certain satisfaction in the midst of annoyance. It was akin to untangling a bunch of knots. Intially it is overwhelming, but gratifying once the list of errors start to reduce. Over time, the coding standard becomes second nature and it allows me to grow in the craft.
 
-## _Analyzing Not Cool Code and Cool Code_
-Every person that codes has their own style of writing code, but it is crucial that we (as coders) can differentiate good and bad coding standards. Here is an example of bad coding standard, a.k.a not cool code. This was referenced from one of our in class coding assignments:
+## _Not Cool Code and Cool Code_
+Every person that codes has their own style of writing code, but it is crucial that we (as coders) can differentiate good and bad coding standards. Here is an example of bad coding standard, a.k.a not cool code. The following examples are referenced from one of our in class coding assignments:
 
 ```
 // Not cool code
