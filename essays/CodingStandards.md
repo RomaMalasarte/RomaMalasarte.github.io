@@ -11,16 +11,16 @@ labels:
 ---
 
 ## _Journey to clean and clear coding_
-It was not until ICS212 Programming Structures course, where I was most frustrated with proper coding standards. After writing code, I would run pylint (a python tool used for checking code quality and errors), I would get a large list of errors such as indentation, extra spaces, incorrect declarations, etc. It was irritating to see, but at the same time satisfying. I would have to admint, it was satisfying in the sense that once I get over the overwhelming-ness of the list of errors, and seeing the list reduce made me feel accomplished. Over time, the coding standard becomes second nature and it is important to keep in mind as we create lines of code.
+It was not until the ICS212 Programming Structures course, where I was most frustrated with proper coding standards. After writing code, I would run pylint (a python tool used for checking code quality and errors), I would get a large list of errors such as indentation, extra spaces, incorrect declarations, etc. It was irritating to see, but at the same time satisfying. I would have to admint, it was satisfying in the sense that once I get over the overwhelming-ness of the list of errors, and seeing the list reduce made me feel accomplished. Over time, the coding standard becomes second nature and it is important to keep in mind as we create lines of code.
 
 ## _Analyzing Not Cool Code and Cool Code_
 Every person that codes has their own style of writing code, but it is crucial that we (as coders) can differentiate good and bad coding standards. Here is an example of bad coding standard, a.k.a Not cool code. This was referenced from one of our in class coding assignments:
 
-*** Insert image 
+<img width="350px" class="rounded float-start pe-4" src="../img/not cool code.png">
 
 Right of the bat, the indentation is off and it acquires poor naming conventions. Those who read this code will have to think super hard about what the function's purpose is. Is the purpose of this code aa? Like, what does that mean? This code also uses var. It returns a result with no context or explanation, not even comments are present. One may say... not cool dude.
 
-**** cool code image ***
+<img width="350px" class="rounded float-start pe-4" src="../img/cool code.png">
 
 You can see the difference between the bad code we analyzed and this one. With the help of the descripting naming conventions, we can figure out that this code has a function sumForLoop that calculates the sum of an array numbers using a for loop. The indentation of this code allows for readability and has proper usage of keywords such as let and const. Following good coding standards can make code seem like a sentence 
 
