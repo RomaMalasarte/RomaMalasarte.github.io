@@ -19,19 +19,11 @@ Although UI frameworks are not easy to wrap your head around in the beginning, i
 
 ## _My attempt at the MLC Website_
 
-<div class="text-center p-4">
-  <img width="500px" 
-       src="../img/MyMLCPage.png" 
-       class="img-thumbnail" >
-</div>
+<img width="500px" src="../img/MyMLCPage.png">
 
 ## _Original MLC Website_
 
-<div class="text-center p-4">
-  <img width="500px" 
-       src="../img/MLCWebsite.png" 
-       class="img-thumbnail" >
-</div>
+<img width="500px" src="../img/MLCWebsite.png">
 
 I attempted to recreate the <a href="https://www.malamalearningcenter.org">Malama Learning Center</a> web page. I know, it is indeed hard to tell which one the original is, *sigh*. Just kidding. I thought that this webpage would be interesting to recreate as I needed more practice creating the navbar as well as overlaying text on an image like this one. The footer took me quite a long time to recreate though, as the section that says “follow us” could not cooperate with me...apparently. 
 
