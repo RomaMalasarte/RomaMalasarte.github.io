@@ -1,57 +1,37 @@
 ---
 layout: essay
 type: essay
-title: "Clean code creates invincible systems"
+title: "Heroes of the User Experience"
 # All dates must be YYYY-MM-DD format!
 date: 2024-02-08
 published: false
 labels:
-  - Javascript
-  - ESLint 
+  - HTML
+  - Bootstrap 5
+  - CSS
 ---
 
-## _Journey to clean and clear coding_
-It was not until I embarked on the challenging journey of taking the ICS212 Programming Structures course, where I found myself most frustrated with the intricacies of proper coding standards. After writing pieces of code, I would run pylint, a python tool renowned for checking code quality and errors. As I hit enter, I would get a large list of errors that ranged from indentation, extra spaces, incorrect declarations, among others. It was a bit irritating to see but at the same time served a certain satisfaction in the midst of annoyance. It was akin to untangling a bunch of knots. Intially it is overwhelming, but extremely satisfying once the list of errors start to reduce. Over time, the coding standard becomes second nature and it allows me to grow in the craft.
+## _The Power of Bootstrap 5_
+I have been feeling powerful as this past week and a half, we have been studying and creating User Interface Frameworks in class. Aside from wrestling my uncooperative images that refuse to center, logos with margins that are so off, or my footer code being annoying, I have truly been enjoying HTML, CSS, and Bootstrap so far! :) 
+Although UI frameworks are not easy to wrap your head around in the beginning, it is important to learn for those wanting to get into the UX/UI field. Bootstrap 5 can look scary at first, but once you start practicing and playing around with it more often, it’ll all make sense. I especially enjoy when I am practicing similar lines of code, and finally get the 'ohh that makes sense' when I understand a function and getting more familiarity. I enjoy how bootstrap 5 is compatible with just any browser. It allows for many customization options and I especailly appreciate how once implemented, intelliJ can apply the closing of a <div> or add the class=" " tags for me. It is a special tool and I am glad that I got to explore it!
 
-## _Not Cool Code and Cool Code_
-Every person that codes has their own style of writing code, but it is crucial that we (as coders) can differentiate good and bad coding standards. Here is an example of bad coding standard, a.k.a not cool code. The following examples are referenced from one of our in class coding assignments:
+## _Here is a webpage that I attempted to recreate_
 
-```
-// Not cool code
-const t = [1,  2,  3,  4];
+<img width="180px" class="rounded float-start pe-4" src="../img/MyMLCPage.png"> 
 
-function aa(n) {
-var t =  0;
-for (var i =  0; i < n.length; i++) {
-  t += n[i];
-}
-return t;
-}
+## _Here is the original_
 
-console.log(aa(t));
-```
+<img width="180px" class="rounded float-start pe-4" src="../img/MLCWebsiteAbove.png"> 
+
+<img width="180px" class="rounded float-start pe-4" src="../img/MLCWebsiteBelow.png"> 
 
 
+This is the Malama Learning Center web page. I thought that this would be interesting to recreate as I needed more practice creating the navbar as well as overlaying text on an image like this one. The footer took me quite a long time to recreate though, as the section that says “follow us” could not cooperate with me...apparently... 
 
-Here lies a symphony of sloppinesss. Right off the bat, we can see that the indentation is off and it acquires poor naming conventions. Although this code is on the simpler side, some folks who read this code will have to think super hard about what the function's purpose is from the start. Is the purpose of this code aa? Like, what does that mean? This code also uses var, which is function-scoped, we should not be using var. This code also returns a result with no context or explanation, not even comments are present. One may say... not cool dude.
+## _It is even worth the time and patience?_
+As a student who is curious to know about UI framework and has talked about that being a potential career, this is the return investment and time frustration that I know will be invaluable to me in the future. We learn things every day to get familiar with what we aim to practice in the future. Three weeks go, I knew NOTHING about Bootstrap, CSS, was newly introduced to HTML. Three weeks later? I know at least something about it. I experienced it. Learning something new is not easy and is not always going to be happy-go-lucky. Challenging myself to gain knowledge on something new, is a style of growth in both my personal and professional endeavors. 
 
-```
-// Cool Code
-const testNums = [1, 2, 3, 4];
-
-function sumForLoop(nums) {
-  let total = 0;
-  for (const num of nums) {
-    total += num;
-  }
-  return total;
-}
-
-console.log(sumForLoop(testNums));
-```
+Can a Sofware engineer benefit from UI frameworks? 
+You bet it. It’ll be the best of both worlds.
 
 
-A beacon of enlightenment. You can see the difference between the bad coding standards we analyzed and good coding standards such as this one. With the help of the descriptive naming conventions, we can figure out that this code has a function sumForLoop that calculates the sum of an array numbers using a for loop. The indentation of this code allows for readability and has proper usage of keywords such as let and const. Following good coding standards can make code seem like a sentence. With consistent and clear documentation, this code can be deemed as invincible!
-
-## _Snaps for ESLint_
-After a week of learning and utilizing ESLint and IntelliJ, I can say that ESLint is a valuable tool when it comes to adhereing to coding standards. When I am doing a WOD, I think that ESLint reduces my stress of having to fix the structural errors myself. It allows me to discover the issues with my code as early as the start of a key to the end (literally). When I am well aware that my code is not formatted well, or the logic is weird, ESLint got my back. 
