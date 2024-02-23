@@ -4,7 +4,7 @@ type: essay
 title: "Heroes of the User Experience"
 # All dates must be YYYY-MM-DD format!
 date: 2024-02-08
-published: false
+published: true
 labels:
   - HTML
   - Bootstrap 5
@@ -13,6 +13,7 @@ labels:
 
 ## _The Power of Bootstrap 5_
 I have been feeling powerful as this past week and a half, we have been studying and creating User Interface Frameworks in class. Aside from wrestling my uncooperative images that refuse to center, logos with margins that are so off, or my footer code being annoying, I have truly been enjoying HTML, CSS, and Bootstrap so far! :) 
+
 Although UI frameworks are not easy to wrap your head around in the beginning, it is important to learn for those wanting to get into the UX/UI field. Bootstrap 5 can look scary at first, but once you start practicing and playing around with it more often, it’ll all make sense. I especially enjoy when I am practicing similar lines of code, and finally get the 'ohh that makes sense' when I understand a function and getting more familiarity. I enjoy how bootstrap 5 is compatible with just any browser. It allows for many customization options and I especailly appreciate how once implemented, intelliJ can apply the closing of a <div> or add the class=" " tags for me. It is a special tool and I am glad that I got to explore it!
 
 ## _Here is a webpage that I attempted to recreate_
