@@ -9,6 +9,7 @@ labels:
   - HTML
   - Bootstrap 5
   - UI Framework
+  - CSS
 ---
 
 ## _The Power of Bootstrap 5_
