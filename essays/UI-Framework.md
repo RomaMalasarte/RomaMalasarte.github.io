@@ -18,11 +18,15 @@ Although UI frameworks are not easy to wrap your head around in the beginning, i
 
 ## _Here is a webpage that I attempted to recreate_
 
-<img width="450px" class="rounded float-start pe-4" src="../img/MyMLCPage.png"> 
+<div class="text-center p-4">
+  <img width="400px" src="../img/myMLCPage.png" class="img-thumbnail" >
+</div>
 
 ## _Here is the original_
 
-<img width="450px" class="rounded float-start pe-4" src="../img/MLCWebsite.png"> 
+<div class="text-center p-4">
+  <img width="400px" src="../img/MLCWebsite.png" class="img-thumbnail" >
+</div>
 
 This is the Malama Learning Center web page. I thought that this would be interesting to recreate as I needed more practice creating the navbar as well as overlaying text on an image like this one. The footer took me quite a long time to recreate though, as the section that says “follow us” could not cooperate with me...apparently... 
 
