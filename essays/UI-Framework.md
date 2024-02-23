@@ -38,7 +38,7 @@ I attempted to recreate the <a href="https://www.malamalearningcenter.org">Malam
 ## _Is it even worth the time and patience?_
 As a student who is curious to know about UI framework and has talked about that being a potential career, this is the return investment and time frustration that I know will be invaluable to me in the future. We learn things every day to get familiar with what we aim to practice in the future. Three weeks go, I knew NOTHING about Bootstrap, CSS, was newly introduced to HTML. Three weeks later? I know at least something about it. I experienced it. Learning something new is not easy and is not always going to be happy-go-lucky. Challenging myself to gain knowledge on something new, is a style of growth in both my personal and professional endeavors. 
 
-Can a Sofware engineer benefit from UI frameworks? 
+Can a software engineer benefit from UI frameworks? 
 You bet it. It’ll be the best of both worlds.
 
 
