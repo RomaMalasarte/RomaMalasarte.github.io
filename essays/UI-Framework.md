@@ -3,12 +3,12 @@ layout: essay
 type: essay
 title: "Heroes of the User Experience"
 # All dates must be YYYY-MM-DD format!
-date: 2024-02-08
+date: 2024-02-22
 published: true
 labels:
   - HTML
   - Bootstrap 5
-  - CSS
+  - UI Framework
 ---
 
 ## _The Power of Bootstrap 5_
@@ -19,7 +19,7 @@ Although UI frameworks are not easy to wrap your head around in the beginning, i
 ## _Here is a webpage that I attempted to recreate_
 
 <div class="text-center p-4">
-  <img width="400px" src="../img/myMLCPage.png" class="img-thumbnail" >
+  <img width="400px" src="../img/MyMLCPage.png" class="img-thumbnail" >
 </div>
 
 ## _Here is the original_
