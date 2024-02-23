@@ -19,7 +19,7 @@ Although UI frameworks are not easy to wrap your head around in the beginning, i
 
 ## _My attempt at the MLC Webpage_
 
-<div class="p-4">
+<div class="text-center p-4">
   <img width="400px" src="../img/MyMLCPage.png" class="img-thumbnail" >
 </div>
 
@@ -28,7 +28,7 @@ I attempted to recreate the <a href="https://www.malamalearningcenter.org">Malam
 
 ## _Original MLC Webpage_
 
-<div class="p-4">
+<div class="text-center p-4">
   <img width="400px" src="../img/MLCWebsite.png" class="img-thumbnail" >
 </div>
 
