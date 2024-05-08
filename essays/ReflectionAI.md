@@ -11,7 +11,7 @@ labels:
 <img width="400px" class="rounded float-start pe-4" src="../img/AI.jpeg">
 
 ### I. Introduction
-About a year and a half ago, I went back home and took a visit to my uncle's house. His son, who worked as an IT and in the software developing field had asked me "where do you go to college and what are you studying?" This question was not new to me, but his response left me with confusion. As I was describing my college experience, he replied back saying that Computer Science is only advancing and now there is ChatGPT. He asked me, "have you heard of that?" I replied saying "no, what is that?" Finding myself typing in chatgpt on the web today, is surreal to me. Little did I know, something that I was 0% knowledgeable about has become applicable to my daily life. `
+About a year and a half ago, I went back home and took a visit to my uncle's house. His son, who worked as an IT and in the software developing field had asked me "where do you go to college and what are you studying?" This question was not new to me, but his response left me with confusion. As I was describing my college experience, he replied back saying that Computer Science is only advancing and now there is ChatGPT. He asked me, "have you heard of chatGPT?" I replied saying "no, what is that?" Finding myself typing in chatgpt on the web today, is surreal to me. Little did I know, something that I was 0% knowledgeable about just a year and a half ago has become applicable to my daily life. `
 
 At the beginning of this ICS314 course, I had a relieving feeling that AI was encouraged in the course. I was worried that I will not be able to use AI, especially for software engineering which I have heard to be quite difficult and hectic that.
 
@@ -21,19 +21,19 @@ I have used AI in class this semester in the following areas:
 
   1. Experience WODs e.g. E18
 
-I have not used AI in the experience WODs mainly because they are trial for me to test whether I understand the concept and woul be able to code it on my own.
+I have not used AI in the experience WODs mainly because I viewed them as a trial for me to test whether I understand the concept. The Experience WODs simply taught me how to follow intstructions and if i continued to do so, I would be successful. I did not think that AI was needed in the Experience WODs as there were tutorial videos which I much rather prefer.
 
   2. In-class Practice WODs
 
-I have not used AI in in class practice WODs as I am able to get ideas from my partners and come up with 
+I rarely used AI in the In-class Practice WODs. AI was used when neither me or my partner were sure of how to move forward in the WOD. Often, one or both of us knew how to start the WOds off and we would just jump off each others ideas.
 
   3. In-class WODs
 
-I have used AI in the in class WODs 
+I have used AI for the in class WODs mainly to debug my code. I figured that utilizing AI was efficient especially since it was under a time crunch. My strategy for in class WODs were to try and attempt the instructions myself for about 10-15 minutes into the WOD. If I have bugs or if nothing works, I would consider using AI to help me figure out what I am stuck on. AI had helped stray away from the evil DNF time.
 
   4. Essays
 
-I do use AI for my essays, specifically Grammarly, 
+I do use AI for my essays, specifically Grammarly 
 
   5. Final project
 
