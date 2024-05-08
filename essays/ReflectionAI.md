@@ -76,7 +76,7 @@ other than what has been listed above, I believe that
 
 
 ### III. Impact on Learning and Understanding:
-I am still trying to figure out where I stand with the incorporation of AI in my day to day learning experience. I want it to become a valuable resource, but i don’t want to take advantage of it and lose my values in true learning. AI does help me apply in an efficient manner, but it does not help me retain. That is my observation. In my case, I prefer reading the documentation and looking at examples. The stucture of how AI, for example chatGPT allows me to skip and scroll wherever I want. Because it is efficient, One could be tempted to not read the documentation. 
+I am still trying to figure out where I stand with the incorporation of AI in my day to day learning experience. I want it to become a valuable resource, but I do not want to take advantage of it and lose my values in true learning. AI does help me apply what I learn in an efficient manner, but it does not help me retain. I would like to find the balance between those two learning styles. In my case, I prefer reading the documentation and looking at examples. The stucture of how AI, for example chatGPT allows me to skip and scroll wherever I want. Because it is efficient, One could be tempted to not read the documentation. 
 
 ### IV. Practical Applications:
 Outside of 314, I use AI when I unlock my Iphone or when I am texting and my messages are autocorrected. I also use Maps and navigation to commute and that is another source of AI in which I incorporate in my day to day life. AI is helpful when it comes to collaborative efforts in working with others. 
@@ -89,7 +89,8 @@ Note taking, lectures, reading textbooks, memorization,
 
 
 ### VII. Future Considerations:
-AI Ethics 
-
+Discuss your thoughts on the future role of AI in software engineering education. Consider potential advancements, challenges, and areas for improvement.
+I believe that AI should not be prevented from software engineering education, but it should be encouraged and taught in an ethical way. AI ethics would be a good foundational topic to cover to overall use AI for the betterment of an individual and not as a shortcut, cut to the chase method.
 
 ### VIII. Conclusion:
+I want to learn so much about Artificial intelligence until I am no longer able to do so. As the use of AI is on the rise, I can see that it has potential to improve the human decision and create more accessible ways to create and innovate just like how sushi restaurants have robot servers.
