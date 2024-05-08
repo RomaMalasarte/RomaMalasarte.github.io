@@ -33,35 +33,34 @@ I have used AI for the in class WODs mainly to debug my code. I figured that uti
 
   4. Essays <img width="200px" class="rounded float-start pe-4" src="../img/notion.png"> <img width="200px" class="rounded float-start pe-4" src="../img/grammarly1.png">
 
-I do use AI for my essays, specifically Grammarly 
+I do use AI for my essays, specifically Grammarly. I have been using grammarly since high school, even then I had little to no knowledge about AI and was not educated on its capabilities. Along with grammarly, I write my rough drafts on notion which also utilizes AI to provide me with grammatical recommendations. It is very convenient writing while getting edits done to my essays simultaneously.
 
   5. Final project
 
-Yes, I have used AI in my final project for debugging using github copilot
+Yes, I have used AI in my final project. I use github copilot to debug my code right from intellij. Other times, I use ChatGPT to ask clarifying questions on what a specific line of code means. At one point I wanted to understand more about the schema collections and so I was able to ask ChatGPT for a quick and simple explanation and how to properly structure a schema.
 
   6. Learning a concept / tutorial
 
-YEs, but i try to read the documentation as they are more interesting than chatgpt
+I do use AI to give me more examples on how to use a specific function or to give me a quick detailed explanation of a concept. For learning tutorials that are provided with the documentation that some modules have, I would rely on the provided material instead of AI.
 
   7. Answering a question in class or in Discord
 
-no, I have not answered a question in class or in discord 
+No, I have not used AI to answer a question in class or in discord.
 
   8. Asking or answering a smart-question
 
-no, I have not used AI to ask or answer a smart question
+I also have not used AI to ask or answer a smart question.
 
   9. Coding example e.g. “give an example of using Underscore .pluck”
 
-I may have once, but it was a rare occasion since all the documentation was provided and accessible 
+I use AI to provide me examples on different functions to refresh my memory aside from looking at the documentation. For this class, all the documentation we need is provided and accessible 
 
   10. Explaining code
 
-Yes, I deifnitely have used AI to explain code, especially in a time crunch. 
-
+Yes, I deifnitely have used AI to explain code to me. 
   11. Writing code
 
-Yes, I have asked AI to write example code or code that is relevant to what I am working on 
+Yes, I have asked AI to write example code or code that is relevant to what I am working on. When we would go between CSS and HTML classes, I was confused on how HTML functions could be designed through the CSS classes and AI was able to show me that using ID's in the div or containers, allowed me to edit through the CSS style class.
 
   12. Documenting code
 
