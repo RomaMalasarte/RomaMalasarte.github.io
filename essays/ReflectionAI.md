@@ -31,7 +31,7 @@ I rarely used AI in the In-class Practice WODs. AI was used when neither me or m
 
 I have used AI for the in class WODs mainly to debug my code. I figured that utilizing AI was efficient especially since it was under a time crunch. My strategy for in class WODs were to try and attempt the instructions myself for about 10-15 minutes into the WOD. If I have bugs or if nothing works, I would consider using AI to help me figure out what I am stuck on. AI had helped stray away from the evil DNF time.
 
-  4. Essays <img width="200px" class="rounded float-start pe-4" src="../img/notion.png"> <img width="200px" class="rounded float-start pe-4" src="../img/grammarly1.png">
+  4. Essays <img width="50px" class="rounded float-start pe-4" src="../img/notion.png"> <img width="50px" class="rounded float-start pe-4" src="../img/grammarly1.png">
 
 I do use AI for my essays, specifically Grammarly. I have been using grammarly since high school, even then I had little to no knowledge about AI and was not educated on its capabilities. Along with grammarly, I write my rough drafts on notion which also utilizes AI to provide me with grammatical recommendations. It is very convenient writing while getting edits done to my essays simultaneously.
 
