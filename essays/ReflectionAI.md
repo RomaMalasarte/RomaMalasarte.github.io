@@ -8,6 +8,8 @@ published: true
 labels:
   - JavaScript
 ---
+<img width="300px" class="rounded float-start pe-4" src="../img/AI.jpeg">
+
 ### I. Introduction
 `About a year and a half ago, I went back home and took a visit to my uncle's house. His son, who worked as an IT and in the software developing field had asked me "where do you go to college and what are you studying?" This question was not new to me, but his response left me with confusion. As I was describing my college experience, he replied back saying that Computer Science is only advancing and now there is ChatGPT. He asked me, "have you heard of that?" I replied saying "no, what is that?" Finding myself typing in chatgpt on the web today, is surreal to me. Little did I know, something that I was 0% knowledgeable about has become applicable to my daily life. `
 
