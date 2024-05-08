@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "What does life look like without AI?"
+title: "No AI? No Sushi Robots"
 # All dates must be YYYY-MM-DD format!
 date: 2024-05-07
 published: true
@@ -56,19 +56,19 @@ I also have not used AI to ask or answer a smart question.
 I use AI to provide me examples on different functions to refresh my memory aside from looking at the documentation. For this class, all the documentation we need is provided and accessible 
 
   10. Explaining code
-
-Yes, I deifnitely have used AI to explain code to me. 
+I have used AI to explain code the same way I ask it to generate examples for my to strengthen my understanding on concepts.
+ 
   11. Writing code
 
 Yes, I have asked AI to write example code or code that is relevant to what I am working on. When we would go between CSS and HTML classes, I was confused on how HTML functions could be designed through the CSS classes and AI was able to show me that using ID's in the div or containers, allowed me to edit through the CSS style class.
 
   12. Documenting code
 
-No
+I 
 
   13. Quality assurance
 
-yes
+Aside from ESlint errors
 
   14. Other uses in ICS 314 not listed above
 
@@ -79,15 +79,17 @@ other than what has been listed above, I believe that
 I am still trying to figure out where I stand with the incorporation of AI in my day to day learning experience. I want it to become a valuable resource, but i don’t want to take advantage of it and lose my values in true learning. AI does help me apply in an efficient manner, but it does not help me retain. That is my observation. In my case, I prefer reading the documentation and looking at examples. The stucture of how AI, for example chatGPT allows me to skip and scroll wherever I want. Because it is efficient, One could be tempted to not read the documentation. 
 
 ### IV. Practical Applications:
-Outside of 314, I believe that AI is something many people come across on the daily. Outside of 314, I use AI when I unlock my Iphone or when I am texting and my messages are autocorrected. I also use Maps and navigation to commute and that is another source of AI in which I incorporate in my day to day life. AI is helpful when it comes to collaborative efforts in working with others. 
+Outside of 314, I use AI when I unlock my Iphone or when I am texting and my messages are autocorrected. I also use Maps and navigation to commute and that is another source of AI in which I incorporate in my day to day life. AI is helpful when it comes to collaborative efforts in working with others. 
 
 ### V. Challenges and Opportunities:
-
+The birth of AI was between 1950-1956 and from then on, it has proved its capabilities for innovation. It embodies "Think smarter, not harder". AI to me is a tool and resource. Just like any other tool or resource, we have much to learn about it- how it works, what are its different components, and how to maximize its utilization to benefit an help ourselves. 
 
 ### VI. Comparative Analysis:
+Note taking, lectures, reading textbooks, memorization, 
 
 
 ### VII. Future Considerations:
+AI Ethics 
 
 
 ### VIII. Conclusion:
