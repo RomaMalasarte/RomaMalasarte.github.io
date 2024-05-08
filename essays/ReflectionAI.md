@@ -11,9 +11,9 @@ labels:
 <img width="200px" src="../img/sushi robot.jpeg">
 
 ### I. Introduction
-About a year and a half ago, I went back home and took a visit to my uncle's house. His son, who worked in IT and in the software developing field had asked me, "where do you go to college and what are you studying?" This question was not new to me, but his response left me with confusion. As I was describing my college experience, he replied back saying that Computer Science is only advancing and now there is ChatGPT. He asked me, "have you heard of chatGPT?" I replied saying "no, what is that?" Now, I finding myself typing in ChatGPT and that is surreal to me. Little did I know, something that I was 0% knowledgeable about a year and a half ago has become applicable to my day to day tasks.
+About a year and a half ago, I went back home and took a visit to my uncle's house. His son, who worked in IT and in the software developing field had asked me, "where do you go to college and what are you studying?" This question was not new to me, but his response left me with confusion. As I was describing my college experience, he replied back saying that Computer Science is only advancing and now there is ChatGPT. At the time, I had never heard of ChatGPT, so his mention was competely new to me. Today I finding myself actively using the AI tool to describe concepts to me or to even generate puns. It is surreal how this tool that I knew nothing about not so long ago has been integrated into my daily tasks. 
 
-I have enjoyed this class in many ways due to how well the structure of the course is and the freedom in being able to create. I appreciate that AI is encouraged in this course as long as it is used responsibly.
+I have enjoyed ICS314 in many ways due to how well the structure of the course is and the freedom in being able to create. I appreciate that AI is encouraged in this course as long as it is used responsibly.
 
 ### II. Personal Experience with AI:
 I have used AI in class this semester in the following areas:
@@ -32,7 +32,7 @@ I have used AI for the in class WODs mainly to debug my code. I figured that uti
 
   4. Essays <img width="50px" class="rounded float-start pe-4" src="../img/notion.png"> <img width="50px" class="rounded float-start pe-4" src="../img/grammarly1.png">
 
-I do use AI for my essays, specifically Grammarly. I have been using grammarly since high school, even then I had little to no knowledge about AI and was not educated on its capabilities. Along with grammarly, I write my rough drafts on notion which also utilizes AI to provide me with grammatical recommendations. It is very convenient writing while getting edits done to my essays simultaneously.
+I do use AI for my essays, specifically Grammarly. I have been using grammarly since high school, even then I had little to no knowledge about AI and was not educated on its capabilities. Along with grammarly, I write my rough drafts on notion which also utilizes AI to provide me with grammatical recommendations. It is very convenient writing while getting edits to my essays simultaneously.
 
   5. Final project
 
