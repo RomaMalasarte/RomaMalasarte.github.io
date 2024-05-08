@@ -11,10 +11,9 @@ labels:
 <img width="400px" class="rounded float-start pe-4" src="../img/sushi robot.jpeg">
 
 ### I. Introduction
-About a year and a half ago, I went back home and took a visit to my uncle's house. His son, who worked as an IT and in the software developing field had asked me "where do you go to college and what are you studying?" This question was not new to me, but his response left me with confusion. As I was describing my college experience, he replied back saying that Computer Science is only advancing and now there is ChatGPT. He asked me, "have you heard of chatGPT?" I replied saying "no, what is that?" Finding myself typing in chatgpt on the web today, is surreal to me. Little did I know, something that I was 0% knowledgeable about just a year and a half ago has become applicable to my daily life. `
+About a year and a half ago, I went back home and took a visit to my uncle's house. His son, who worked as an IT and in the software developing field had asked me "where do you go to college and what are you studying?" This question was not new to me, but his response left me with confusion. As I was describing my college experience, he replied back saying that Computer Science is only advancing and now there is ChatGPT. He asked me, "have you heard of chatGPT?" I replied saying "no, what is that?" Finding myself typing in chatgpt on the web today, is surreal to me. Little did I know, something that I was 0% knowledgeable about just a year and a half ago has become applicable to my daily life. 
 
-At the beginning of this ICS314 course, I had a relieving feeling that AI was encouraged in the course. I was worried that I will not be able to use AI, especially for software engineering which I have heard to be quite difficult and hectic that.
-
+I appreciate the AI is encouraged in this course and does not restrict us from using a valuable tool. 
 
 ### II. Personal Experience with AI:
 I have used AI in class this semester in the following areas:
@@ -64,15 +63,15 @@ Yes, I have asked AI to write example code or code that is relevant to what I am
 
   12. Documenting code
 
-I 
+I like to document my code myself. It is easier cater documention to my own understanding. 
 
   13. Quality assurance
 
-Aside from ESlint errors
+Aside from ESlint errors, I do use AI to ensure that the quality of my code is up to par, similar to how I use AI to debug my in class WODs
 
   14. Other uses in ICS 314 not listed above
 
-other than what has been listed above, I believe that 
+other than what has been listed above, I have no other uses with AI.
 
 
 ### III. Impact on Learning and Understanding:
@@ -85,8 +84,8 @@ Outside of 314, I use AI when I unlock my Iphone or when I am texting and my mes
 The birth of AI was between 1950-1956 and from then on, it has proved its capabilities for innovation. It embodies "Think smarter, not harder". AI to me is a tool and resource. Just like any other tool or resource, we have much to learn about it- how it works, what are its different components, and how to maximize its utilization to benefit an help ourselves. 
 
 ### VI. Comparative Analysis:
-Note taking, lectures, reading textbooks, memorization, 
-
+Discuss your thoughts on the future role of AI in software engineering education. Consider potential advancements, challenges, and areas for improvement.
+I believe that AI should not be prevented from software engineering education, but it should be encouraged and taught in an ethical way. AI ethics would be a good foundational topic to cover to overall use AI for the betterment of an individual and not as a shortcut, cut to the chase method.
 
 ### VII. Future Considerations:
 Discuss your thoughts on the future role of AI in software engineering education. Consider potential advancements, challenges, and areas for improvement.
