@@ -11,9 +11,9 @@ labels:
 <img width="200px" src="../img/sushi robot.jpeg">
 
 ### I. Introduction
-About a year and a half ago, I went back home and took a visit to my uncle's house. His son, who worked as an IT and in the software developing field had asked me "where do you go to college and what are you studying?" This question was not new to me, but his response left me with confusion. As I was describing my college experience, he replied back saying that Computer Science is only advancing and now there is ChatGPT. He asked me, "have you heard of chatGPT?" I replied saying "no, what is that?" Finding myself typing in chatgpt on the web today, is surreal to me. Little did I know, something that I was 0% knowledgeable about just a year and a half ago has become applicable to my daily life. 
+About a year and a half ago, I went back home and took a visit to my uncle's house. His son, who worked in IT and in the software developing field had asked me, "where do you go to college and what are you studying?" This question was not new to me, but his response left me with confusion. As I was describing my college experience, he replied back saying that Computer Science is only advancing and now there is ChatGPT. He asked me, "have you heard of chatGPT?" I replied saying "no, what is that?" Now, I finding myself typing in ChatGPT and that is surreal to me. Little did I know, something that I was 0% knowledgeable about a year and a half ago has become applicable to my day to day tasks.
 
-I appreciate the AI is encouraged in this course and does not restrict us from using a valuable tool. 
+I have enjoyed this class in many ways due to how well the structure of the course is and the freedom in being able to create. I appreciate that AI is encouraged in this course as long as it is used responsibly.
 
 ### II. Personal Experience with AI:
 I have used AI in class this semester in the following areas:
@@ -75,21 +75,19 @@ other than what has been listed above, I have no other uses with AI.
 
 
 ### III. Impact on Learning and Understanding:
-I am still trying to figure out where I stand with the incorporation of AI in my day to day learning experience. I want it to become a valuable resource, but I do not want to take advantage of it and lose my values in true learning. AI does help me apply what I learn in an efficient manner, but it does not help me retain. I would like to find the balance between those two learning styles. In my case, I prefer reading the documentation and looking at examples. The stucture of how AI, for example chatGPT allows me to skip and scroll wherever I want. Because it is efficient, One could be tempted to not read the documentation. 
+I am still trying to figure out where I stand with the incorporation of AI in my day to day learning experience. I want it to become a valuable resource, but I do not want to take advantage of it and lose my values in true learning. AI does help me apply what I learn in an efficient manner, but it does not help me retain. I would like to find the balance between those two learning styles. In my case, I prefer reading the documentation and looking at examples. The stucture of how AI helps me retain information is less effective tha reading documentation for me. ChatGPT allows me to skip and scroll wherever I want which is not helpful without discipline. Because of its efficiency, an indiviudal could be tempted to not read the documentation. 
 
 ### IV. Practical Applications:
 Outside of 314, I use AI when I unlock my Iphone or when I am texting and my messages are autocorrected. I also use Maps and navigation to commute and that is another source of AI in which I incorporate in my day to day life. AI is helpful when it comes to collaborative efforts in working with others. 
 
 ### V. Challenges and Opportunities:
-The birth of AI was between 1950-1956 and from then on, it has proved its capabilities for innovation. It embodies "Think smarter, not harder". AI to me is a tool and resource. Just like any other tool or resource, we have much to learn about it- how it works, what are its different components, and how to maximize its utilization to benefit an help ourselves. 
+The birth of AI was between 1950-1956 and from then on, it has proved its capabilities for innovation. It embodies "Think smarter, not harder". Just like any other tool or resource, we have much to learn about AI- how it works, what are its different components, and how to maximize its utilization to benefit an help ourselves. It does have its own challenges such as not being able to produce the correct answer, or being repetitive. It also shares the opportunity of making decisions faster.
 
 ### VI. Comparative Analysis:
-Discuss your thoughts on the future role of AI in software engineering education. Consider potential advancements, challenges, and areas for improvement.
-I believe that AI should not be prevented from software engineering education, but it should be encouraged and taught in an ethical way. AI ethics would be a good foundational topic to cover to overall use AI for the betterment of an individual and not as a shortcut, cut to the chase method.
+Traditional teaching methods are still important. Writing, reading, looking through textbooks and taking notes will be elemental when learning. AI enhancement can be used concurrently to help provide extra examples and guidance. 
 
 ### VII. Future Considerations:
-Discuss your thoughts on the future role of AI in software engineering education. Consider potential advancements, challenges, and areas for improvement.
-I believe that AI should not be prevented from software engineering education, but it should be encouraged and taught in an ethical way. AI ethics would be a good foundational topic to cover to overall use AI for the betterment of an individual and not as a shortcut, cut to the chase method.
+I believe that AI should not be prevented from software engineering education, but it should be encouraged and taught in an ethical way. AI ethics would be a good foundational topic to cover to overall use AI for the betterment of an individual and not as a shortcut, cut to the chase method. Just like the ethics debate we had in class, it would be rough to robbed from a position only to be given a person who only knows how to use AI. Sarah deserved better
 
 ### VIII. Conclusion:
 I want to learn so much about Artificial intelligence until I am no longer able to do so. As the use of AI is on the rise, I can see that it has potential to improve the human decision and create more accessible ways to create and innovate just like how sushi restaurants have robot servers.
