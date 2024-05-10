@@ -13,7 +13,7 @@ labels:
 
 <img width="400px" pe-4 src="../img/Reflection.png">
 
-### The Magic of Git
+### My Experience
 This course has given me an extensive introduction to software engineering. I was able to learn about the essential concepts such as the design, development, testing, and maintenance. This class made it an exciting and fulfilling thing to trial front end and back end work. I also learned that the internet is our oyster. The digital world has unbounded opportunity and if we all can ask the right questions, we can achieve our goals.
 
 ### The Magic of Git
