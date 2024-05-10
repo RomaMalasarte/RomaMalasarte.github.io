@@ -1,0 +1,28 @@
+---
+layout: essay
+type: essay
+title: "Tissues for the Software Engineering issues"
+# All dates must be YYYY-MM-DD format!
+date: 2024-05-09
+published: true
+labels:
+  - Software Engineering
+  - Project Management
+
+---
+### My experience
+In general, this course has given me an extensive introduction to software engineering. I was able to learn about the essential concepts such as the design, development, testing, and maintenance. This class made it an exciting and fulfilling thing to trial front end and back end work. I also learned that the internet is our oyster. The digital world has unbounded opportunity and if I ask the right questions, I can think critically and dive deeper.
+
+### Configuration management is essential
+Being able to work by yourself or with a team in an effective, timely, concurrent manner is not impossible! Configuration management keeps track of what each person in the group are working on. It maintains stability in the project and can bring issues to the surface to be addressed immediately. How does configuration management work? Reflecting on my experiences, there were times of stressing over how I am supposed to integrate my peer's code into mine as if its so complicated. Thanks to distributive configuration management in git, my life was easier. If I am working in a group, I would simply just clone the repo of the template I am using -> dabble on my keyboard -> see the changes I have made -> merge any conflicts and push it to git so that my team can track every piece of my work (which is good). This approach to configuration management fosters transparency and optimizes collaboration. 
+
+### Agile Project management 
+Understand its process and methodologies. When working in a group setting or in an industry that calls for organization and efficiency, Agile Project management is the way to go. This method of being efficinent with time and tasks as well as increasing transparency in projects is what. Working with Milestones on github emphasized the fact that "everyone will have something to do" and contribute to the success of the project. This is how to create a deliverable. 
+projects process
+Communication and collabroation is super important to APM, team members to clients should be able.
+
+### Design Patters
+I can agree that Patterns DO help newbies acquire the hard won experience of ninjas. Design Patterns are essential to software engineering as it provides direction and structure when approaching a problem that needds to be solved. Utilizing a design patterns mitigates the stress that can cause when there is no pattern. We discussed several design patterns over the course of the design pattern module such as the singleton, observer, factory, and MVC
+
+Overall, this class was a great experience all the way from E01 - E58. I learned so much about myself and about software engineering wondering if we would be a good match 
+Because of this class, I can anticipate the expectations needed to become a software engineering and all the trials and failures. 
