@@ -13,14 +13,14 @@
       { "network": "linkedin", "username": "RomaMalasarte", "url": "www.linkedin.com/in/roma-malasarte-685a48230" }
     ]
   },
-  "interests": [
+  "Interests": [
     { "name": "Information Technology" },
     { "name": "Data Science" },
     { "name": "Machine Learning" },
     { "name": "Web Design" },
     { "name": "Graphic Design" }
   ],
-  "skills": [
+  "Skills": [
     {
       "name": "Languages and Frameworks",
       "keywords": [ "C", "C++", "Java", "Javascript", "R", "HTML", "CSS" ]
@@ -30,7 +30,7 @@
       "keywords": [ "MacOS, Meteor, Github" ]
     }
   ],
-  "education": [
+  "Education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
       "area": "Computer Science (expected Spring, 2025)",
@@ -41,7 +41,7 @@
       ]
     }
   ],
-  "work": [
+  "Work": [
     {
       "company": "UH Information and Technology Center",
       "position": "Student IT",
@@ -101,6 +101,7 @@
       ]
     }
   ],
+  
   "awards": [
     {
       "title": "Academic Merit Scholarship",
