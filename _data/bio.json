@@ -23,7 +23,7 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "R" ]
+      "keywords": [ "C", "C++", "Java", "Javascript", "R", "Meteor" ]
     },
     {
       "name": "Toolsets/OS",
@@ -47,7 +47,7 @@
       "position": "Student IT",
       "website": "",
       "startDate": "2022-01-15",
-      "endDate": "Present",
+      "endDate": "2024-03-22",
       "summary": "Manage and Support the technology infrastructure",
       "highlights": [
         "Maintain the data center of UH, network patching and documentation, and perform data security measures."
@@ -58,7 +58,7 @@
       "position": "Vice President of Operations",
       "Social Media": "https://www.instagram.com/rhamanoa/",
       "startDate": "2022-12-01",
-      "endDate": "Present",
+      "endDate": "2024-05-03",
       "summary": "Plan program events and manage administrative tasks",
       "highlights": [
         "Plan logistics for every program scheduled for the semester. (e.g. silent disco, s'mores night, Plan your semester, etc.)",
