@@ -11,12 +11,12 @@ labels:
 ---
 <img width="200px" src="../img/sushi robot.jpeg">
 
-## _I. Introduction_ 
+## I. Introduction 
 About a year and a half ago, I went back home and took a visit to my uncle's house. His son, who worked in IT and in the software developing field had asked me, "where do you go to college and what are you studying?" This question was not new to me, but his response left me with confusion. As I was describing my college experience, he replied back saying that AI was going to steal CS jobs since everyone is using ChatGPT. At the time, I had never heard of ChatGPT, so his mention was competely new to me. Today I find myself actively using the AI tool to describe concepts to me or to even generate puns. It is surreal how this tool that I knew nothing about not so long ago has been integrated into my weekly tasks.
 
 I have enjoyed ICS314 in many ways due to how well the structure of the course is and the freedom in being able to create. I appreciate that AI is encouraged in this course (if used responsibly of course).
 
-## _II. Personal Experience with AI_
+## II. Personal Experience with AI
 I have used AI in class this semester in the following areas:
 
 ### 1. Experience WODs e.g. E18
@@ -75,16 +75,16 @@ Aside from ESlint errors, I do use AI to ensure that the quality of my code is u
 other than what has been listed above, I have no other uses with AI.
 
 
-## _III. Impact on Learning and Understanding:_
+## III. Impact on Learning and Understanding:
 I am still trying to figure out where I stand with the incorporation of AI in my day to day learning experience. I would like it to become a valuable resource, but I do not want to take advantage of it and lose my values in true learning. AI does help me apply what I learn in an efficient manner, but it does not help me retain much. In my case, I prefer reading the documentation, looking at examples, and testing out the code. The stucture of how AI helps me retain information is less effective than reading documentation for me. Because of its efficiency, an indiviudal could be tempted to not read the documentation. 
 
-## _IV. Practical Applications:_
+## IV. Practical Applications:
 Outside of 314, I use AI when I unlock my Iphone or when I am texting and my messages are autocorrected. I also use Maps and navigation apps to commute/ look for a bus and that is another source of AI in which I incorporate in my day to day life.
 
-## _V. Challenges and Opportunities:_
+## V. Challenges and Opportunities:
 AI embodies "Think smarter, not harder". Just like any other tool or resource, we have much to learn about AI- how it works, what are its different components, and how to maximize its utilization to benefit ourselves. It does have its own challenges such as not being able to produce the correct answer sometimes, or being repetitive. On the bright side, it shares the opportunity of making decisions faster, which is its trade off.
 
-## _VI. Comparative Analysis:_
+## VI. Comparative Analysis:
 Traditional teaching methods are still important. Writing, reading, looking through textbooks and taking notes will be elemental when learning. AI enhancement can be used concurrently to help provide extra examples and guidance. 
 
 ## VII. Future Considerations:
