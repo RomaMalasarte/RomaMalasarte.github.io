@@ -23,7 +23,7 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "R", "Meteor" ]
+      "keywords": [ "C", "C++", "Java", "Javascript", "R", "HTML, "CSS" ]
     },
     {
       "name": "Toolsets/OS",
@@ -84,7 +84,7 @@
       "organization": "National Residence Hall Honorary",
       "website": "",
       "position": "Member",
-      "startDate": "April 16, 2023",
+      "startDate": "2023-04-16",
       "endDate": "",
       "summary": [
       "In collaboration with Sierra Club, I extracted Invasive species, Koa Haole, from the Wawamalu Beach Park in order to restore the beach to its natural/ native state. ",
@@ -94,7 +94,7 @@
       "organization": "Supporting Women in Tech and Computing Hawaii",
       "website": "https://switch-uhm.github.io/",
       "position": "Vice President of Marketing",
-      "startDate": "May 29, 2023",
+      "startDate": "2023-05-29",
       "endDate": "",
       "summary": [ "In collaborative efforts with the Girl Scouts of Hawaii, I taught them fun STEM activities such as constructing LED photo frames and brush bots.
 ",
