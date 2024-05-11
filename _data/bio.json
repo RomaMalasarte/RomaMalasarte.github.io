@@ -13,14 +13,14 @@
       { "network": "linkedin", "username": "RomaMalasarte", "url": "www.linkedin.com/in/roma-malasarte-685a48230" }
     ]
   },
-  "Interests": [
+  "interests": [
     { "name": "Information Technology" },
     { "name": "Data Science" },
     { "name": "Machine Learning" },
     { "name": "Web Design" },
     { "name": "Graphic Design" }
   ],
-  "Skills": [
+  "skills": [
     {
       "name": "Languages and Frameworks",
       "keywords": [ "C", "C++", "Java", "Javascript", "R", "HTML", "CSS" ]
@@ -30,7 +30,7 @@
       "keywords": [ "MacOS, Meteor, Github" ]
     }
   ],
-  "Education": [
+  "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
       "area": "Computer Science (expected Spring, 2025)",
@@ -41,33 +41,7 @@
       ]
     }
   ],
-  "Work": [
-    {
-      "company": "UH Information and Technology Center",
-      "position": "Student IT",
-      "website": "",
-      "startDate": "2022-01-15",
-      "endDate": "2024-03-22",
-      "summary": "Manage and Support the technology infrastructure",
-      "highlights": [
-        "Maintain the data center of UH, network patching and documentation, and perform data security measures."
-      ]
-    },
-    {
-      "company": "UH Manoa Residence Hall Association",
-      "position": "Vice President of Operations",
-      "Social Media": "https://www.instagram.com/rhamanoa/",
-      "startDate": "2022-12-01",
-      "endDate": "2024-05-03",
-      "summary": "Plan program events and manage administrative tasks",
-      "highlights": [
-        "Plan logistics for every program scheduled for the semester. (e.g. silent disco, s'mores night, Plan your semester, etc.)",
-        "Handling email communcations and managing the budget.",
-        "Plan semester retreats for our general assembly."
-      ]
-    }
-  ],
-   "Work": [
+  "work": [
     {
       "company": "UH Information and Technology Center",
       "position": "Student IT",
@@ -94,15 +68,16 @@
     }
   ],
   
-  "Volunteer Activities": [
+  "volunteer": [
     {
-      "organization": "Supporting Women in Tech and Computing Hawaii",
-      "website": "https://switch-uhm.github.io/",
-      "position": "Vice President of Marketing",
-      "startDate": "2024-04-29",
+      "organization": "Ka Papa Loʻi O Kānewai",
+      "website": "https://manoa.hawaii.edu/hshk/ka-papa-loi-o-kanewai/",
+      "position": "Volunteer",
+      "startDate": "2023-11-04",
       "endDate": "",
-      "summary": [ 
-        "In collaborative efforts with the Girl Scouts of Hawaii, I taught them fun STEM activities such as constructing LED photo frames and brush bots."
+       "summary": [
+        "Clean up around the Kalo patches, remove any morning glory and leaves. ",
+        "Learn about the founder and origin of the Loʻi and how fresh water came available. "
       ]
     },
     {
@@ -116,14 +91,13 @@
       ]
     }, 
     {
-      "organization": "Ka Papa Loʻi O Kānewai",
-      "website": "https://manoa.hawaii.edu/hshk/ka-papa-loi-o-kanewai/",
-      "position": "Volunteer",
-      "startDate": "2023-11-04",
+     "organization": "Supporting Women in Tech and Computing Hawaii",
+      "website": "https://switch-uhm.github.io/",
+      "position": "Vice President of Marketing",
+      "startDate": "2024-04-29",
       "endDate": "",
-      "summary": [
-        "Clean up around the Kalo patches, remove any morning glory and leaves. ",
-        "Learn about the founder and origin of the Loʻi and how fresh water came available. "
+       "summary": [ "In collaborative efforts with the Girl Scouts of Hawaii, I taught them fun STEM activities such as constructing LED photo frames and brush bots.
+",
       ]
     }
   ],
