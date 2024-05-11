@@ -25,7 +25,6 @@ I mainly focused on the general tests for the application using testcafe-ci (con
 
 <div class="text-center p-4">
   <img src="../img/testcafe.png" alt="Image 1" width="400"/>
-  <img src="../img/roles.png" alt="Image 3" width="400"/>
 </div>
 
 ## _Now I know to..._
