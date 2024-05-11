@@ -24,9 +24,9 @@ Kalo Stems is a platform that my group and I had created while taking ICS314 Sof
 I mainly focused on the general tests for the application using testcafe-ci (continuous integration). Running testcafe allowed me to view a simulation of what it would look like if a user were to click on the log ins, navbar, or any button that I would like to test in our application. It was satisfying when it worked... however, when it didn't, plan b was to close my eyes and hope that it was a glitch. When that didn't work, I would do my best to resolve the issue. I found myself feeling fullfilling when the tests would work and seeing our application passing. For this project, Emily and I had also worked on the sign up and Register page, in which roles would be added for users to pick according to the role. Throughout the first milestone, I had also prepared our .io page to be ready to view. 
 
 <p align="center">
-  <img src="path/to/your/testcafe.png" alt="Image 1" width="400"/>
-  <img src="path/to/your/Runtestcafe.png" alt="Image 2" width="400"/>
-  <img src="path/to/your/roles.png" alt="Image 3" width="400"/>
+  <img src="../img/testcafe.png" alt="Image 1" width="400"/>
+  <img src="../img/Runtestcafe.png" alt="Image 2" width="400"/>
+  <img src="../img/roles.png" alt="Image 3" width="400"/>
 </p>
 
 
