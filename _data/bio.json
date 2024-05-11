@@ -68,16 +68,15 @@
     }
   ],
   
-  "volunteer": [
+  "Volunteer Activities": [
     {
-      "organization": "Ka Papa Loʻi O Kānewai",
-      "website": "https://manoa.hawaii.edu/hshk/ka-papa-loi-o-kanewai/",
-      "position": "Volunteer",
-      "startDate": "2023-11-04",
+      "organization": "Supporting Women in Tech and Computing Hawaii",
+      "website": "https://switch-uhm.github.io/",
+      "position": "Vice President of Marketing",
+      "startDate": "2024-04-29",
       "endDate": "",
-      "summary": [
-        "Clean up around the Kalo patches, remove any morning glory and leaves. ",
-        "Learn about the founder and origin of the Loʻi and how fresh water came available. "
+      "summary": [ 
+        "In collaborative efforts with the Girl Scouts of Hawaii, I taught them fun STEM activities such as constructing LED photo frames and brush bots."
       ]
     },
     {
@@ -91,13 +90,14 @@
       ]
     }, 
     {
-      "organization": "Supporting Women in Tech and Computing Hawaii",
-      "website": "https://switch-uhm.github.io/",
-      "position": "Vice President of Marketing",
-      "startDate": "2024-04-29",
+      "organization": "Ka Papa Loʻi O Kānewai",
+      "website": "https://manoa.hawaii.edu/hshk/ka-papa-loi-o-kanewai/",
+      "position": "Volunteer",
+      "startDate": "2023-11-04",
       "endDate": "",
-      "summary": [ 
-        "In collaborative efforts with the Girl Scouts of Hawaii, I taught them fun STEM activities such as constructing LED photo frames and brush bots."
+      "summary": [
+        "Clean up around the Kalo patches, remove any morning glory and leaves. ",
+        "Learn about the founder and origin of the Loʻi and how fresh water came available. "
       ]
     }
   ],
