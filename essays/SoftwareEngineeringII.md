@@ -23,9 +23,9 @@ As part of an eight-person team, my primary focus was on frontend development. O
 
 <img width="400px" src="../img/landingPageSpire.png">
 
-In addition to frontend work, I took on the responsibility of coordinating group meetings. With such a large team, maintaining clear communication and ensuring we could all touch base and ensure that we were all doing something was essential. I valued how our group embraced flexibility and initiative, consistently addressing blockers, setting priorities, and meeting deadlines. 
+In addition to frontend work, I took on the responsibility of coordinating group meetings. With such a large team, maintaining clear communication and ensuring we could all touch base and ensure that we were all doing something was essential. I definitely appreciate that my group was flexible and most members took initiative, consistently addressing blockers, setting priorities, and meeting deadlines. 
 
- ## Real-World Skills in Action
+## Real-World Skills in Action
 This class felt like a simulation of the real-world software development environment. From regular client meetings, milestone-based progress updates, and to weekly code reviews, we got a taste of what it's like to deliver a product under professional conditions. The hands-on experience was invaluable. I mainly gathered the importance of understanding client needs and aligning our work with their vision. As a team, we underestimated how challenging it would be to integrate the forecasting features SPIRE required. If I could go back, I would emphasize that we have a clear vision of the project and timeline accounted for the intricacies of backend development and set the backend beforehand as this project was database heavy. 
 
 ## Final Thoughts
