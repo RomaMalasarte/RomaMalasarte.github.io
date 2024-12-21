@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Giving Software Engineering II a chance"
+title: "Giving Software Engineering II A Chance"
 # All dates must be YYYY-MM-DD format!
 date: 2024-12-20
 published: true
