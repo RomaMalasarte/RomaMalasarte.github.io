@@ -1,17 +1,29 @@
 ---
 layout: essay
 type: essay
-title: "Clean code creates invincible systems"
+title: "Giving Software Engineering II a chance"
 # All dates must be YYYY-MM-DD format!
-date: 2024-02-08
+date: 2024-12-20
 published: true
 labels:
-  - Javascript
-  - ESLint 
+  - Meteor
+  - React
+  - App Development 
 ---
 
-## _Journey to clean and clear coding_
-It was not until I embarked on the challenging journey of taking the ICS212 Programming Structures course, where I found myself most frustrated with the intricacies of proper coding standards. After writing pieces of code, I would run pylint, a python tool renowned for checking code quality and errors. As I hit enter, I would get a large list of errors that ranged from indentation, extra spaces, incorrect declarations, among others. It was a bit irritating to see but at the same time served a certain satisfaction in the midst of annoyance. It was akin to untangling a bunch of knots. Intially it is overwhelming, but extremely satisfying once the list of errors start to reduce. Over time, the coding standard becomes second nature and it allows me to grow in the craft.
+As I reflect on my experience with software engineering this past fall semester, I can say that the most memorable part was working in a team and gaining the real world experience of a software engineer. The structured approach of the course was something I genuinely appreciated, as it introduced me to a more disciplined way of thinking about computer programming. Beyond the technical skills, the course emphasized teamwork and collaboration. 
+
+## About the Client: SPIRE Hawaii
+For our semester project we collaborated with SPIRE Hawaii, a company specializing in accounting and advisory services. Their mission was clear for this project. They hoped to achieve autonomy with their accounting and fiscal data. The challenge? SPIRE relies on Microsoft Excel to manage their financials, but they envisioned something far more dynamic and user-friendly—an application that could forecast their organization's value over time.
+
+When we first met with the client, they walked us through their vision. They wanted a tool that could not only streamline their financial processes but also provide a forecase of the value of the organization overtime. In many ways, it reminded me of tools like QuickBooks, but tailored specifically to their unique needs. To begin, we had to understand the current scope and identify the gaps in their workflow. This set the stage for our semester journey.
+
+## My Role: Frontend Development and Leadership
+As part of an eight-person team, my primary focus was on frontend development. One of my proudest contributions was the design of the landing page, which served as the application's first impression. Here's a snapshot of the page I worked on:
+
+Insert landing page photo
+
+In addition to frontend work, I took on the responsibility of coordinating group meetings. With such a large team, maintaining clear communication and setting regular touchpoints was essential. I valued how our group embraced flexibility and initiative, consistently addressing blockers, setting priorities, and meeting deadlines. We weren’t just a team; we were problem-solvers, learning to adapt and support each other.
 
 ## _Not Cool Code and Cool Code_
 Every person that codes has their own style of writing code, but it is crucial that we (as coders) can differentiate good and bad coding standards. Here is an example of bad coding standard, a.k.a not cool code. The following examples are referenced from one of our in class coding assignments:
