@@ -21,9 +21,7 @@ When we first met with the client, they walked us through their vision. They wan
 ## My Role: Frontend Development and Teamwork
 As part of an eight-person team, my primary focus was on frontend development. One of my proudest contributions was the design of the landing page, which served as the application's first impression. Here's a snapshot of the page I mainly worked on:
 
-<div style="text-align: center;">
-  <img src="./img/landingPageSpire.png" alt="Landing Page of SPIRE Application" />
-</div>
+<img width="400px" src="../img/landingPageSpire.png">
 
 In addition to frontend work, I took on the responsibility of coordinating group meetings. With such a large team, maintaining clear communication and ensuring we could all touch base and ensure that we were all doing something was essential. I valued how our group embraced flexibility and initiative, consistently addressing blockers, setting priorities, and meeting deadlines. 
 
