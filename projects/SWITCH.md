@@ -9,7 +9,7 @@ labels:
   - Marketing
   - Research
   - Community Engagement
-summary: "An ACM Special Interest Group called SWITCH. We stand for Supporting Women in Tech and Computing Hawai’i and our mission is to promote inclusivity and awareness in the tech industry."
+summary: "An ACM Special Interest Group called SWITCH. 
 ---
 
 <div class="text-center p-4">
